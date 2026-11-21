@@ -1,0 +1,186 @@
+{
+  "entities": {
+    "User": {
+      "title": "User Profile",
+      "description": "User account and preferences",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "displayName": { "type": "string" },
+        "email": { "type": "string" },
+        "photoBase64": { "type": "string", "description": "Resized Base64 thumbnail (max 400x400)" },
+        "dreamUniversity": { "type": "string" },
+        "dreamMajor": { "type": "string" },
+        "reason": { "type": "string" },
+        "ambisType": { "type": "string", "enum": ["Si Ambis", "Penganut SKS", "Pasrah"] },
+        "collegePurpose": { "type": "string" },
+        "ktmCardUrl": { "type": "string" },
+        "streak": { "type": "integer" },
+        "wishlistedQuestions": { "type": "array" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid", "email"]
+    },
+    "Question": {
+      "title": "Question",
+      "description": "A single SNBT question",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "text": { "type": "string" },
+        "imageUrl": { "type": "string" },
+        "options": { "type": "object" },
+        "correctOption": { "type": "string" },
+        "explanation": { "type": "string" },
+        "subtest": { "type": "string" },
+        "level": { "type": "integer" },
+        "tags": { "type": "array" },
+        "slug": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      }
+    },
+    "History": {
+      "title": "Tryout History",
+      "description": "A session of questions answered by a user",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "subtest": { "type": "string" },
+        "questionIds": { "type": "array" },
+        "userAnswers": { "type": "object" },
+        "score": { "type": "number" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      }
+    },
+    "Vocab": {
+      "title": "Vocabulary",
+      "description": "A saved word for the user",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "word": { "type": "string" },
+        "meaning": { "type": "string" },
+        "sentence": { "type": "string" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      }
+    },
+    "Wishlist": {
+      "title": "Wishlist Item",
+      "description": "A bookmarked question with full content",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "text": { "type": "string" },
+        "options": { "type": "object" },
+        "correctOption": { "type": "string" },
+        "explanation": { "type": "string" },
+        "subtest": { "type": "string" },
+        "level": { "type": "integer" },
+        "isWishlisted": { "type": "boolean" },
+        "savedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "text", "options", "correctOption"]
+    },
+    "Progress": {
+      "title": "Progress",
+      "description": "User progress in a subtest",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "subtest": { "type": "string" },
+        "percentage": { "type": "number" },
+        "completedModules": { "type": "array" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      }
+    },
+    "Chat": {
+      "title": "AI Chat Session",
+      "description": "User conversation with AI",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "title": { "type": "string" },
+        "messages": { "type": "array" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "title", "messages"]
+    },
+    "Playlist": {
+      "title": "Study Playlist",
+      "description": "User created study playlist",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "thumbnail": { "type": "string" },
+        "slug": { "type": "string" },
+        "mode": { "type": "string", "enum": ["workflow", "normal"] },
+        "creatorId": { "type": "string" },
+        "creatorName": { "type": "string" },
+        "category": { "type": "string" },
+        "isPublic": { "type": "boolean" },
+        "videoCount": { "type": "integer" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["title", "slug", "creatorId", "mode"]
+    },
+    "PlaylistItem": {
+      "title": "Playlist Video Item",
+      "description": "A video within a playlist",
+      "type": "object",
+      "properties": {
+        "youtubeUrl": { "type": "string" },
+        "videoId": { "type": "string" },
+        "title": { "type": "string" },
+        "category": { "type": "string" },
+        "position": { "type": "integer" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["youtubeUrl", "videoId", "position"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profile document"
+    },
+    "/chats/{chatId}": {
+      "schema": "Chat",
+      "description": "User AI conversations"
+    },
+    "/questions/{questionId}": {
+      "schema": "Question",
+      "description": "Global question bank"
+    },
+    "/users/{userId}/history/{historyId}": {
+      "schema": "History",
+      "description": "User attempt records"
+    },
+    "/users/{userId}/vocabs/{vocabId}": {
+      "schema": "Vocab",
+      "description": "User's saved vocabularies"
+    },
+    "/users/{userId}/wishlist/{wishlistId}": {
+      "schema": "Wishlist",
+      "description": "User's bookmarked questions"
+    },
+    "/users/{userId}/progress/{subtestId}": {
+      "schema": "Progress",
+      "description": "User's learning progress"
+    },
+    "/subtest_sessions/{sessionId}": {
+      "schema": "History",
+      "description": "A generated subtest session containing questions"
+    },
+    "/playlists/{playlistId}": {
+      "schema": "Playlist",
+      "description": "Public or shared playlists"
+    },
+    "/playlists/{playlistId}/items/{itemId}": {
+      "schema": "PlaylistItem",
+      "description": "Videos in the playlist"
+    }
+  }
+}

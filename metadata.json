@@ -1,0 +1,9 @@
+{
+  "name": "SNBT AI",
+  "description": "Premium EdTech platform for SNBT preparation featuring AI-powered question generation, IRT simulation, and a luxury learning experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}

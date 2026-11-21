@@ -1,0 +1,702 @@
+[
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Apotek",
+    "jawaban_2": "Apotik",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Nasehat",
+    "jawaban_2": "Nasihat",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Resiko",
+    "jawaban_2": "Risiko",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Antre",
+    "jawaban_2": "Antri",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Praktek",
+    "jawaban_2": "Praktik",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Jadwal",
+    "jawaban_2": "Jadual",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Kwalitas",
+    "jawaban_2": "Kualitas",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Karier",
+    "jawaban_2": "Karir",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Ekstrim",
+    "jawaban_2": "Ekstrem",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Cokelat",
+    "jawaban_2": "Coklat",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Hapal",
+    "jawaban_2": "Hafal",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Ijazah",
+    "jawaban_2": "Ijasah",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Ijin",
+    "jawaban_2": "Izin",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Jenderal",
+    "jawaban_2": "Jendral",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Lobang",
+    "jawaban_2": "Lubang",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Maaf",
+    "jawaban_2": "Ma'af",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Nafas",
+    "jawaban_2": "Napas",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Faham",
+    "jawaban_2": "Paham",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Pikir",
+    "jawaban_2": "Fikir",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Rezeki",
+    "jawaban_2": "Rejeki",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Sistim",
+    "jawaban_2": "Sistem",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Tehnik",
+    "jawaban_2": "Teknik",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Zaman",
+    "jawaban_2": "Jaman",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Aktifitas",
+    "jawaban_2": "Aktivitas",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Analisis",
+    "jawaban_2": "Analisa",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Azas",
+    "jawaban_2": "Asas",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Atlet",
+    "jawaban_2": "Atlit",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Atmosfir",
+    "jawaban_2": "Atmosfer",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Baterai",
+    "jawaban_2": "Baterei",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Cabe",
+    "jawaban_2": "Cabai",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Detail",
+    "jawaban_2": "Detil",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Diagnosa",
+    "jawaban_2": "Diagnosis",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Efektip",
+    "jawaban_2": "Efektif",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Elite",
+    "jawaban_2": "Elit",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Pebruari",
+    "jawaban_2": "Februari",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Foto",
+    "jawaban_2": "Photo",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Gizi",
+    "jawaban_2": "Giji",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Hirarki",
+    "jawaban_2": "Hierarki",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Hipotesis",
+    "jawaban_2": "Hipotesa",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Himbau",
+    "jawaban_2": "Imbau",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Indera",
+    "jawaban_2": "Indra",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Insaf",
+    "jawaban_2": "Insyaf",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Hisap",
+    "jawaban_2": "Isap",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Jemaah",
+    "jawaban_2": "Jamaah",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Kadaluwarsa",
+    "jawaban_2": "Kedaluwarsa",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Komoditi",
+    "jawaban_2": "Komoditas",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Konkret",
+    "jawaban_2": "Konkrit",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Kaos",
+    "jawaban_2": "Kaus",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Kreatif",
+    "jawaban_2": "Kreatip",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Kwalifikasi",
+    "jawaban_2": "Kualifikasi",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Kiai",
+    "jawaban_2": "Kyai",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Legalisir",
+    "jawaban_2": "Legalisasi",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Manager",
+    "jawaban_2": "Manajer",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Merek",
+    "jawaban_2": "Merk",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Materai",
+    "jawaban_2": "Meterai",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Milyar",
+    "jawaban_2": "Miliar",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "November",
+    "jawaban_2": "Nopember",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Obyek",
+    "jawaban_2": "Objek",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Perduli",
+    "jawaban_2": "Peduli",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Persentase",
+    "jawaban_2": "Prosentase",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Produktip",
+    "jawaban_2": "Produktif",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Propinsi",
+    "jawaban_2": "Provinsi",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Putra",
+    "jawaban_2": "Putera",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Puteri",
+    "jawaban_2": "Putri",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Ramadhan",
+    "jawaban_2": "Ramadan",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Rapi",
+    "jawaban_2": "Rapih",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Respon",
+    "jawaban_2": "Respons",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Sah",
+    "jawaban_2": "Syah",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Seksama",
+    "jawaban_2": "Saksama",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Syaraf",
+    "jawaban_2": "Saraf",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Sekadar",
+    "jawaban_2": "Sekedar",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Sate",
+    "jawaban_2": "Satai",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Silahkan",
+    "jawaban_2": "Silakan",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Sopir",
+    "jawaban_2": "Supir",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Standard",
+    "jawaban_2": "Standar",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Subjek",
+    "jawaban_2": "Subyek",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Syurga",
+    "jawaban_2": "Surga",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Survey",
+    "jawaban_2": "Survei",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Sutera",
+    "jawaban_2": "Sutra",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Teladan",
+    "jawaban_2": "Tauladan",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Terlantar",
+    "jawaban_2": "Telantar",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Trampil",
+    "jawaban_2": "Terampil",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Ubah",
+    "jawaban_2": "Rubah",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Hutang",
+    "jawaban_2": "Utang",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Varitas",
+    "jawaban_2": "Varietas",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Wujud",
+    "jawaban_2": "Ujud",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Dzuhur",
+    "jawaban_2": "Zuhur",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Asik",
+    "jawaban_2": "Asyik",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Andal",
+    "jawaban_2": "Handal",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Otentik",
+    "jawaban_2": "Autentik",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Bolpoin",
+    "jawaban_2": "Bolpen",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Ekosistim",
+    "jawaban_2": "Ekosistem",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Kuitansi",
+    "jawaban_2": "Kwitansi",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Goa",
+    "jawaban_2": "Gua",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Kategori",
+    "jawaban_2": "Katagori",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Konggres",
+    "jawaban_2": "Kongres",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Mencolok",
+    "jawaban_2": "Menyolok",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Nenas",
+    "jawaban_2": "Nanas",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Trotoar",
+    "jawaban_2": "Trotoir",
+    "is_jawaban_1_benar": true,
+    "is_jawaban_2_benar": false
+  },
+  {
+    "pertanyaan": "Penulisan kata baku yang benar adalah...",
+    "jawaban_1": "Cendikiawan",
+    "jawaban_2": "Cendekiawan",
+    "is_jawaban_1_benar": false,
+    "is_jawaban_2_benar": true
+  }
+]
