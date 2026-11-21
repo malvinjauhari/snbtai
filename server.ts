@@ -3,22 +3,11 @@ import { createServer as createViteServer } from "vite";
 import path from "path";
 import "dotenv/config";
 
-import aiRouter from "./src/server/aiRouter";
-import authRouter from "./src/server/authRouter";
+import { createApp } from "./src/server/app";
 
 async function startServer() {
-  const app = express();
+  const app = createApp();
   const PORT = 3000;
-
-  app.use(express.json());
-
-  // API routes
-  app.get("/api/health", (req, res) => {
-    res.json({ status: "ok", message: "SNBT AI Backend is running" });
-  });
-
-  app.use("/api/ai", aiRouter);
-  app.use("/api/auth", authRouter);
 
   // Vite middleware for development
   if (process.env.NODE_ENV !== "production") {
